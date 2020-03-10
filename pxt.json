@@ -9,7 +9,9 @@
     "files": [
         "README.md",
         "main.blocks",
-        "main.ts"
+        "main.ts",
+        "Grove_LED_Bar.h",
+        "Grove_LED_Bar.cpp"
     ],
     "testFiles": [
         "test.ts"
